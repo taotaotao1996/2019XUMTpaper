@@ -1,0 +1,74 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Lau, BPL
+   Marakkalage, SH
+   Zhou, YR
+   Ul Hassan, N
+   Yuen, C
+   Zhang, M
+   Tan, UX
+AF Lau, Billy Pik Lik
+   Marakkalage, Sumudu Hasala
+   Zhou, Yuren
+   Ul Hassan, Naveed
+   Yuen, Chau
+   Zhang, Meng
+   Tan, U-Xuan
+TI A survey of data fusion in smart city applications
+SO INFORMATION FUSION
+LA English
+DT Article
+DE Data fusion; Sensor fusion; Smart city; Big data; Internet of things;
+   Multi-perspectives classification
+ID WIRELESS SENSOR NETWORKS; CONVOLUTIONAL NEURAL-NETWORKS; MULTISENSOR
+   DATA FUSION; BIG DATA; INFORMATION FUSION; DETECTION SYSTEM; HUMAN
+   MOBILITY; ENERGY MANAGEMENT; WASTE MANAGEMENT; TRAVEL DEMAND
+AB The advancement of various research sectors such as Internet of Things (IoT), Machine Learning, Data Mining, Big Data, and Communication Technology has shed some light in transforming an urban city integrating the aforementioned techniques to a commonly known term - Smart City. With the emergence of smart city, plethora of data sources have been made available for wide variety of applications. The common technique for handling multiple data sources is data fusion, where it improves data output quality or extracts knowledge from the raw data. In order to cater evergrowing highly complicated applications, studies in smart city have to utilize data from various sources and evaluate their performance based on multiple aspects. To this end, we introduce a multi-perspectives classification of the data fusion to evaluate the smart city applications. Moreover, we applied the proposed multi-perspectives classification to evaluate selected applications in each domain of the smart city. We conclude the paper by discussing potential future direction and challenges of data fusion integration.
+C1 [Lau, Billy Pik Lik; Marakkalage, Sumudu Hasala; Zhou, Yuren; Ul Hassan, Naveed; Yuen, Chau; Tan, U-Xuan] SUTD, 8 Somapah Rd, Singapore 487372, Singapore.
+   [Ul Hassan, Naveed] LUMS, Lahore 54792, Pakistan.
+   [Zhang, Meng] Southeast Univ, Nanjing 210096, Jiangsu, Peoples R China.
+RP Lau, BPL (reprint author), SUTD, 8 Somapah Rd, Singapore 487372, Singapore.
+EM billy_lau@mymail.sutd.edu.sg; marakkalage@mymail.sutd.edu.sg;
+   yuren_zhou@mymail.sutd.edu.sg; naveed.hassan@lums.edu.pk;
+   yuenchau@sutd.edu.sg; zmeng@seu.edu.cn; uxuan_tan@sutd.edu.sg
+FU National Research Foundation (NRF) of Singapore via the Green Buildings
+   Innovation Cluster (GBIC); SUTD-MIT International Design Center (IDC);
+   Natural Science Foundation of China (NSFC) [61750110529, 61850410535];
+   Higher Education Commission (HEC) Pakistan [5913]
+FX The research work was supported in part by the National Research
+   Foundation (NRF) of Singapore via the Green Buildings Innovation Cluster
+   (GBIC) administered by the Building and Construction Authority
+   (BCA)-Green Building Innovation Cluster (GBIC) Program Office; in part,
+   by the SUTD-MIT International Design Center (IDC; idc.sutd.edu.sg); in
+   part by Natural Science Foundation of China (NSFC) through Project No.
+   61750110529, 61850410535 and Higher Education Commission (HEC) Pakistan
+   through grant number NRPU P#5913.
+NR 258
+TC 0
+Z9 0
+U1 102
+U2 102
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1566-2535
+EI 1872-6305
+J9 INFORM FUSION
+JI Inf. Fusion
+PD DEC
+PY 2019
+VL 52
+BP 357
+EP 374
+DI 10.1016/j.inffus.2019.05.004
+PG 18
+WC Computer Science, Artificial Intelligence; Computer Science, Theory &
+   Methods
+SC Computer Science
+GA IG4VF
+UT WOS:000473800600028
+DA 2019-09-05
+ER
+
+EF
